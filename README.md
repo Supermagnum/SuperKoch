@@ -5,7 +5,8 @@ A idea for a program that uses German psychologist Ludwig Koch's method to learn
 Platform Compatibility: Linux Ubuntu and variants,Windows and Mac OS.
 A website could solve this issue.
 
-Inputs: iambic,paddles, straight key and bug . Standard inputs like a keyboard and mouse and a winkeyer interface.
+Inputs: iambic,paddles, straight key and bug. 
+Standard inputs like a keyboard and mouse and a winkeyer interface.
 
 Some basic information for those unfamiliar with morse keys:
 Example of a straight key: https://en.m.wikipedia.org/wiki/File:J38TelegraphKey.jpg 
