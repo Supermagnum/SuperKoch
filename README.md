@@ -1,5 +1,5 @@
 # SuperKoch
-A idea for a program that uses German psychologist Ludwig Koch's method to learn how to receive and send morse code.
+A idea for a program that uses German psychologist Ludwig Koch's method to learn you how to receive and send morse code.
 
 
 Platform Compatibility: Linux Ubuntu and variants,Windows and Mac OS.
@@ -54,7 +54,7 @@ More info about Koch's method here: https://www.qsl.net/n1irz/finley.morse.html
 How morse code sounds at 15 wpm: https://youtu.be/EewFLTsHlFg
 But, there is a thing.. 
 
-NO ONE HAS USED THIS METHOD TO LEARN TO RECEIVE AND SEND! It should work for both!
+NO ONE HAS USED THIS METHOD TO TRAIN A PERSON HOW TO RECEIVE AND SEND! It should work for both!
 
 There are NO software that can teach both, only receive!
 
