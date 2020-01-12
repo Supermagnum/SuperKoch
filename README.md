@@ -58,6 +58,8 @@ NO ONE HAS USED THIS METHOD TO LEARN TO RECEIVE AND SEND! It should work for bot
 
 There are NO software that can teach both, only receive!
 
+Koch himself, with hand-picked students, got a group to master receiving 12 wpm code in a mere 13.5 hours! 
+That's much faster than any other method in the psychological literature.
 
 
 How the software should work,and it's modes:
