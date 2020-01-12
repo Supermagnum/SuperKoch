@@ -8,13 +8,18 @@ A website could solve this issue.
 Inputs: iambic,paddles, straight key and bug . Standard inputs like a keyboard and mouse and a winkeyer interface.
 
 Some basic information for those unfamiliar with morse keys:
-Example of a straight key: https://en.m.wikipedia.org/wiki/File:J38TelegraphKey.jpg A straight key is the common telegraph key as seen in various movies. It is a simple bar with a knob on top and a contact underneath. When the bar is depressed against spring tension, it forms a circuit and allows electricity to flow. The problem with these are that the timing of the dots and dashes, as these are impossible to get 100% consistent timing on. That can confuse a computer.
+Example of a straight key: https://en.m.wikipedia.org/wiki/File:J38TelegraphKey.jpg 
+A straight key is the common telegraph key as seen in various movies. It is a simple bar with a knob on top and a contact underneath. When the bar is depressed against spring tension, it forms a circuit and allows electricity to flow. The problem with these are that the timing of the dots and dashes, as these are impossible to get 100% consistent timing on. That can confuse a computer.
 Keys having two separate levers, one for dits and the other for dahs are called dual or dual-lever paddles. With a dual paddle both contacts may be closed simultaneously, enabling the "iambic" functions of an electronic keyer that is designed to support them. The operator can create a series of alternating dits and dahs .
 A single-paddle also utilizes separate contacts for dits and dahs. A example of a dual lever paddle: http://www.morsex.com/bencher/by1.jpg
-More on morse keys: https://en.m.wikipedia.org/wiki/Telegraph_key
-A typical Winkeyer interface: https://www.hamcrafters2.com/WKUSBX.html
 
-The international Morse code table: https://en.m.wikipedia.org/wiki/File:International_Morse_Code.svg There are codes for Letters, numbers, punctuation, prosigns for Morse code and non-English variants, can be found here: https://en.m.wikipedia.org/wiki/Morse_code
+More on morse keys: 
+https://en.m.wikipedia.org/wiki/Telegraph_key
+A typical Winkeyer interface: 
+https://www.hamcrafters2.com/WKUSBX.html
+
+The international Morse code table: 
+https://en.m.wikipedia.org/wiki/File:International_Morse_Code.svg There are codes for Letters, numbers, punctuation, prosigns for Morse code and non-English variants, can be found here: https://en.m.wikipedia.org/wiki/Morse_code
 
 How the wpm or morse code speed are calculated: The basic element of Morse code is the dot and all elements can be defined in terms of multiples of the dot length. The word PARIS is used because this is the length of a typical word in English plain text, it has a total length of 50 dot lengths. 
 If the word PARIS can be sent ten times in a minute using normal Morse code timing then the code speed is 10 WPM.
@@ -26,11 +31,17 @@ Pause between characters=Dot length x 3
 Pause between words=Dot length x 7
 
 
-The Koch method: What is the koch method? 
-The Koch method, named after German psychologist Ludwig Koch, which uses the full target speed from the outset but begins with just two characters. Once strings containing those two characters can be copied with 90% accuracy, an additional character is added, and so on until the full character set is mastered. It's based on learned reflexes, and is arguably the best method available! Learning at speeds below 15 WPM is strongly discouraged because building reflexes does not work at slow speeds. 
+The Koch method:
+What is the koch method? 
+The Koch method, named after German psychologist Ludwig Koch, which uses the full target speed from the outset but begins with just two characters. 
+Once strings containing those two characters can be copied with 90% accuracy, an additional character is added, and so on until the full character set is mastered.
+It's based on learned reflexes, and is arguably the best and fastest method available! 
+Learning at speeds below 15 WPM is strongly discouraged because building reflexes does not work at slow speeds. 
 More info about Koch's method here: https://www.qsl.net/n1irz/finley.morse.html
 How morse code sounds at 15 wpm: https://youtu.be/EewFLTsHlFg
-But, there is a thing.. NO ONE HAS USED THIS METHOD TO LEARN TO RECEIVE AND SEND! It should work for both!
+But, there is a thing.. 
+
+NO ONE HAS USED THIS METHOD TO LEARN TO RECEIVE AND SEND! It should work for both!
 
 There are NO software that can teach both, only receive!
 
