@@ -8,6 +8,9 @@ A website could solve this issue.
 Inputs: iambic,paddles, straight key and bug. 
 Standard inputs like a keyboard and mouse and a winkeyer interface.
 
+Winkeyer can be emulated using a Aurdino:
+https://github.com/k3ng/k3ng_cw_keyer/wiki
+
 Some basic information for those unfamiliar with morse keys:
 Example of a straight key: https://en.m.wikipedia.org/wiki/File:J38TelegraphKey.jpg 
 
