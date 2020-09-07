@@ -48,6 +48,7 @@ Pause between words=Dot length x 7
 
 
 The Koch method:
+
 What is the koch method? 
 The Koch method, named after German psychologist Ludwig Koch, which uses the full target speed from the outset but begins with just two characters. 
 Once strings containing those two characters can be copied with 90% accuracy, an additional character is added, and so on until the full character set is mastered.
@@ -76,7 +77,10 @@ There should be not to harsh timing requirements on receiving, some normal slack
 Signals are not 100% perfect from a straight Morse key,this may "confuse" the software.
 It should also support multiple users on the same software instance.
 
-It should also display statistics of a users progress and time used. The slowest permitted speed should be 15 WPM.
+It should also display statistics of a users progress and time used.
+The slowest permitted speed should be 15 WPM. 
+Any speed below this is wasted time.
+
 It should also be possible to adjust the mininum and maximum number of characters in the groups and if they are of random size.
 It should support Farnsworth timing, characters are sent at the same speed as at higher speeds, while extra spacing is inserted between characters and words to slow the transmission down. 
 
