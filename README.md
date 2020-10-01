@@ -55,6 +55,7 @@ Once strings containing those two characters can be copied with 90% accuracy, an
 It's based on learned reflexes, and is arguably the best and fastest method available! 
 Learning at speeds below 15 WPM is strongly discouraged because building reflexes does not work at slow speeds. 
 More info about Koch's method here: https://www.qsl.net/n1irz/finley.morse.html
+
 How morse code sounds at 15 wpm: https://youtu.be/EewFLTsHlFg
 But, there is a thing.. 
 
