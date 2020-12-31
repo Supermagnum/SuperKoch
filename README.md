@@ -83,7 +83,7 @@ Signals are not 100% perfect from a straight Morse key,this may "confuse" the so
 It should also support multiple users on the same software instance.
 
 It should also display statistics of a users progress and time used.
-The slowest permitted speed should be 12 WPM. 
+The slowest permitted speed should be 13 WPM. 
 Any speed below this is wasted time.
 
 It should also be possible to adjust the mininum and maximum number of characters in the groups and if they are of random size.
