@@ -31,6 +31,7 @@ https://en.m.wikipedia.org/wiki/Telegraph_key
 
 A typical Winkeyer interface: 
 https://www.hamcrafters2.com/WKUSBX.html
+
 It has a open source driver, available here:
 https://github.com/ok2cqr/winkeyer_server
 
@@ -56,7 +57,10 @@ It's based on learned reflexes, and is arguably the best and fastest method avai
 Learning at speeds below 15 WPM is strongly discouraged because building reflexes does not work at slow speeds. 
 More info about Koch's method here: https://www.qsl.net/n1irz/finley.morse.html
 
-How morse code sounds at 15 wpm: https://youtu.be/EewFLTsHlFg
+How morse code sounds at 15 wpm: 
+https://youtu.be/EewFLTsHlFg
+https://youtu.be/JskAldoROMM
+
 But, there is a thing.. 
 
 NO ONE HAS USED THIS METHOD TO TRAIN A PERSON HOW TO RECEIVE AND SEND! It should work for both!
@@ -79,7 +83,7 @@ Signals are not 100% perfect from a straight Morse key,this may "confuse" the so
 It should also support multiple users on the same software instance.
 
 It should also display statistics of a users progress and time used.
-The slowest permitted speed should be 15 WPM. 
+The slowest permitted speed should be 12 WPM. 
 Any speed below this is wasted time.
 
 It should also be possible to adjust the mininum and maximum number of characters in the groups and if they are of random size.
