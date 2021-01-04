@@ -102,7 +102,19 @@ The advantage of this is that you get used to recognising characters at a higher
 
 Realistic mode: 
 Available during Realistic mode: signal fading and white noise to imitate more "realistic conditions", as Hannes Matuschek Kochmorse has it. 
-It is available at: https://github.com/hmatuschek/kochmorse . Kochmorse does have a CW detector, but it can't be used to input characters during learning how to receive Morse and it seems not to support winkeyer interfaces.
+It is available at: https://github.com/hmatuschek/kochmorse . 
+Kochmorse does have a CW detector, but it can't be used to input characters during learning how to receive Morse and it seems not to support winkeyer interfaces.
 
 Morse alphabets that should be used : Primarly International, but the possibility to add regional extras like the Norwegian Æ Ø and Å. 
 Those extras should be possible to add to the characters learned with a option in settings.
+
+Compatible with a Murmur client that can connect to a murmur server,
+that enables chatting in morse code with other users.
+https://www.mumble.info/
+
+A existing server already exists:
+http://internetcw.weebly.com/
+
+
+Suggestion for a plugin:
+https://forums.mumble.info/topic/2542-fading-and-white-noise-plugin/
