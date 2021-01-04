@@ -108,7 +108,7 @@ Kochmorse does have a CW detector, but it can't be used to input characters duri
 Morse alphabets that should be used : Primarly International, but the possibility to add regional extras like the Norwegian Æ Ø and Å. 
 Those extras should be possible to add to the characters learned with a option in settings.
 
-Compatible with a Murmur client that can connect to a murmur server,
+Compatibility with a Murmur client that can connect to a murmur server,
 that enables chatting in morse code with other users.
 https://www.mumble.info/
 
