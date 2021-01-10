@@ -72,7 +72,9 @@ Something interesting happens when one can handle speeds above 30 wpm, you will 
 
 But, there is a thing.. 
 
-NO ONE HAS USED THIS METHOD TO TRAIN A PERSON HOW TO RECEIVE AND SEND! It should work for both!
+NO ONE HAS USED THIS METHOD TO TRAIN A PERSON HOW TO RECEIVE AND SEND! 
+
+It should work for both as it will teach muscle memory.
 
 There are NO software that can teach both, only receive!
 
