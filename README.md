@@ -1,5 +1,5 @@
 # SuperKoch
-A idea for a program that uses German psychologist Ludwig Koch's method to learn you how to receive and send morse code.
+A idea and suggestions for a program that uses German psychologist Ludwig Koch's method to learn you how to receive and send morse code.
 
 
 Platform Compatibility: Linux Ubuntu and variants,Windows and Mac OS.
@@ -86,6 +86,7 @@ That's much faster than any other method in the psychological literature.
 How the software should work,and it's modes:
 
 It should keep track of the users progress,time used and other statistics.
+Some of it may be posted to https://lcwo.net/ if an API is available.
 
 Training mode: First the program sends a series of K's in CW for 30 seconds while the character K is displayed. Then it repeats the procedure with the character M. When that is complete it sends a four characters group using K and M in random places without displaying the signs. It then waits for a four characters input using the keyboard or the morse device, shows the characters you have gotten correct in green, the wrong ones in red. That continues until the user has gotten 90 % correct of a number of groups, then a new letter is introduced ( for example X ), it is sent for 30 seconds while the character is displayed. Then the lesson continues using the new character until 90% of groups is correct, a new character or prosign is introduced and the lessons continues until all characters are learned.
 It may also be possible to display the character K and send the character in morse 5 times and wait for 4~10 around seconds for the answer using the morse key or keyboard.
@@ -112,11 +113,16 @@ Those extras should be possible to add to the characters learned with a option i
 
 Compatibility with a Murmur client that can connect to a murmur server,
 that enables chatting in morse code with other users.
-https://www.mumble.info/
+The client is available at: https://www.mumble.info/
+Similar low latency open source free software solutions could also be used.
 
 A existing server already exists:
 http://internetcw.weebly.com/
 
-
-Suggestion for a plugin:
+Suggestion for a plugin for mumble:
 https://forums.mumble.info/topic/2542-fading-and-white-noise-plugin/
+This may be done by the software itself if a plugin is to cumbersome.
+
+Compatible with Hamsphere:
+http://hamsphere.com/ 
+That is sadly a paid service
