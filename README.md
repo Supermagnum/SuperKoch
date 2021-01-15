@@ -125,4 +125,4 @@ This may be done by the software itself if a plugin is to cumbersome.
 
 Compatible with Hamsphere:
 http://hamsphere.com/ 
-That is sadly a paid service
+
