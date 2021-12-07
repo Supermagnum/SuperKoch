@@ -126,3 +126,10 @@ This may be done by the software itself if a plugin is to cumbersome.
 Compatible with Hamsphere:
 http://hamsphere.com/ 
 
+
+Compatibility with: 
+http://www.morserino.info/
+
+Morserino's code: 
+https://github.com//oe1wkl/Morserino-32
+
