@@ -107,3 +107,6 @@ It has a open source driver, available here: https://github.com/ok2cqr/winkeyer_
 
 
 I hope that anyone is willing to program it.
+
+It's discussed on reddit here:
+https://www.reddit.com/r/amateurradio/comments/zkiu7j/a_question_about_the_viability_of_using_kochs/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
