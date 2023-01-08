@@ -85,8 +85,10 @@ It should also display statistics of a users progress and time used,and what cha
 The slowest permitted speed should be 13 WPM. Any speed below this is wasted time.
 
 It must have a Graphical user interface.
+
 ------------------
-Options:
+
+Options that can be added when the basic functionality works:
 
 It should also be possible to adjust the mininum and maximum number of characters in the groups and if they are of random size. It should support Farnsworth timing, characters are sent at the same speed as at higher speeds, while extra spacing is inserted between characters and words to slow the transmission down.
 The advantage of this is that you get used to recognising characters at a higher speed,the characters does not "blend together" as easily and thus it will be easier to increase the speed later on.
@@ -108,11 +110,7 @@ It communicates by serial data over USB connection.
 
 Platform Compatibility: Linux Ubuntu and variants,Windows and Mac OS. 
 
-Inputs: iambic,paddles, straight key and bug. Standard inputs like a keyboard and mouse and a winkeyer interface.
 
-Winkeyer can be emulated using a Aurdino: https://github.com/k3ng/k3ng_cw_keyer/wiki
-A typical Winkeyer interface: https://www.hamcrafters2.com/WKUSBX.html
-It has a open source driver, available here: https://github.com/ok2cqr/winkeyer_server
 
 
 I hope that anyone is willing to program it.
