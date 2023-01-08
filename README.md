@@ -69,15 +69,24 @@ There are NO software that can teach both, only receive!
 
 
 How the software should work,and it's modes:
-It should keep track of the users progress,time used and other statistics. Some of it may be posted to https://lcwo.net/ if an API is available.
+
+It should keep track of the users progress,time used and other statistics. 
+Some of it may be posted to https://lcwo.net/ if an API is available.
+
+Basic and the most important function:
 
 Training mode example: First the program sends a series of K's in CW for 30 seconds while the character K is displayed. Then it repeats the procedure with the character M. When that is complete it sends a four characters group using K and M in random places without displaying the signs. It then waits for a four characters input using the keyboard or the morse device, shows the characters you have gotten correct in green, the wrong ones in red. 
 That continues until the user has gotten 90 % correct of a number of groups, then a new letter is introduced ( for example X ), it is sent for 30 seconds while the character is displayed. 
 Then the lesson continues using the new character until 90% of groups is correct, a new character or prosign is introduced and the lessons continues until all characters are learned. 
-It may also be possible to display the character K and send the character in morse 5 times and wait for 4~10 around seconds for the answer using the morse key or keyboard. There should be not to harsh timing requirements on receiving, some normal slack should be permitted as long as the CW decoder can decode perhaps 70% of the transmitted CW it should be good. It should also support multiple users on the same software instance.
+It may also be possible to display the character K and send the character in morse 5 times and wait for 4~10 around seconds for the answer using the morse key. 
+There should be not to harsh timing requirements on receiving, some normal slack should be permitted as long as the CW decoder can decode perhaps 70% of the transmitted CW it should be good. It should also support multiple users on the same software instance.
 It should also display statistics of a users progress and time used,and what characters the user needs to focus on if the user is struggling with those. 
 
 The slowest permitted speed should be 13 WPM. Any speed below this is wasted time.
+
+It must have a Graphical user interface.
+------------------
+Options:
 
 It should also be possible to adjust the mininum and maximum number of characters in the groups and if they are of random size. It should support Farnsworth timing, characters are sent at the same speed as at higher speeds, while extra spacing is inserted between characters and words to slow the transmission down.
 The advantage of this is that you get used to recognising characters at a higher speed,the characters does not "blend together" as easily and thus it will be easier to increase the speed later on.
@@ -95,6 +104,7 @@ Compatible with Hamsphere: http://hamsphere.com/
 Compatibility with: http://www.morserino.info/
 
 Morserino's code: https://github.com//oe1wkl/Morserino-32
+It communicates by serial data over USB connection. 
 
 Platform Compatibility: Linux Ubuntu and variants,Windows and Mac OS. 
 
@@ -103,7 +113,6 @@ Inputs: iambic,paddles, straight key and bug. Standard inputs like a keyboard an
 Winkeyer can be emulated using a Aurdino: https://github.com/k3ng/k3ng_cw_keyer/wiki
 A typical Winkeyer interface: https://www.hamcrafters2.com/WKUSBX.html
 It has a open source driver, available here: https://github.com/ok2cqr/winkeyer_server
-
 
 
 I hope that anyone is willing to program it.
