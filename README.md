@@ -6,11 +6,11 @@ A idea and suggestions for a program that uses German psychologist Ludwig Koch's
 What is the koch method? 
 
 The Koch method, named after German psychologist Ludwig Koch, which uses the full target speed from the outset but begins with just two characters. Once strings containing those two characters can be copied with 90% accuracy, an additional character is added, and so on until the full character set is mastered. 
-Koch himself, with hand-picked students, got a group to master receiving morse code in a mere 13.5 hours!
+Koch himself, with hand-picked students, got a group to master receiving morse code at 13 wpm in a mere 13.5 hours!
 
 That's much faster than any other method in the psychological literature.
 It's based on learned reflexes, and is arguably the best and fastest method available! 
-Learning at speeds below 15 WPM is strongly discouraged because building reflexes does not work at slow speeds. 
+Learning at speeds below 13 WPM is strongly discouraged because building reflexes does not work at slow speeds. 
 More info about Koch's method here: https://www.qsl.net/n1irz/finley.morse.html
 
 How morse code sounds at 15 wpm: 
