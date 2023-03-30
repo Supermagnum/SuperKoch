@@ -84,7 +84,7 @@ It should also display statistics of a users progress and time used,and what cha
 
 The slowest permitted speed should be 13 WPM. Any speed below this is wasted time.
 
-It must have a Graphical user interface.
+It must have a Graphical user interface and be compatible with morserino as top priority. 
 
 ------------------
 
