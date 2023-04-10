@@ -86,14 +86,17 @@ It should also display statistics of a users progress and time used,and what cha
 
 The slowest permitted speed should be 13 WPM. Any speed below this is wasted time.
 
-It must have a Graphical user interface and be compatible with morserino as top priority. 
+It must have a Graphical user interface and be compatible with morserino as top priority as that will take care of the interfacing of different keys to the software. 
+
+It can be found here: http://www.morserino.info/
+
+Morserino's code: https://github.com//oe1wkl/Morserino-32 
+It communicates by serial data over USB connection.
+
 
 ------------------
 
-Options that can be added when the basic functionality works:
-
-It should also be possible to adjust the mininum and maximum number of characters in the groups and if they are of random size. It should support Farnsworth timing, characters are sent at the same speed as at higher speeds, while extra spacing is inserted between characters and words to slow the transmission down.
-The advantage of this is that you get used to recognising characters at a higher speed,the characters does not "blend together" as easily and thus it will be easier to increase the speed later on.
+Options that can be added when the basic functionality works, in decending priority:
 
 Realistic mode example: Adds signal fading,static and white noise to imitate more "realistic conditions", as Hannes Matuschek Kochmorse has it. It is available at: https://github.com/hmatuschek/kochmorse . Kochmorse does have a CW detector, but it can't be used to input characters during learning how to receive Morse and it seems not to support winkeyer interfaces.
 Morse alphabets that should be used : Primarly International, but the possibility to add regional extras like the Norwegian Æ Ø and Å. 
@@ -105,15 +108,7 @@ Suggestion for a plugin for mumble: https://forums.mumble.info/topic/2542-fading
 
 Compatible with Hamsphere: http://hamsphere.com/
 
-Compatibility with: http://www.morserino.info/
-
-Morserino's code: https://github.com//oe1wkl/Morserino-32
-It communicates by serial data over USB connection. 
-
 Platform Compatibility: Linux Ubuntu and variants,Windows and Mac OS. 
-
-
-
 
 I hope that anyone is willing to program it.
 
