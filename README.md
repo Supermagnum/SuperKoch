@@ -80,8 +80,8 @@ Basic and the most important function:
 Training mode example: First the program sends a series of K's in CW for 30 seconds while the character K is displayed. Then it repeats the procedure with the character M. When that is complete it sends a four characters group using K and M in random places without displaying the signs. It then waits for a four characters input using the keyboard or the morse device, shows the characters you have gotten correct in green, the wrong ones in red. 
 That continues until the user has gotten 90 % correct of a number of groups, then a new letter is introduced ( for example X ), it is sent for 30 seconds while the character is displayed. 
 Then the lesson continues using the new character until 90% of groups is correct, a new character or prosign is introduced and the lessons continues until all characters are learned. 
-It may also be possible to display the character K and send the character in morse 5 times and wait for 4~10 around seconds for the answer using the morse key. 
-There should be not to harsh timing requirements on receiving, some normal slack should be permitted as long as the CW decoder can decode perhaps 70% of the transmitted CW it should be good. It should also support multiple users on the same software instance.
+It may also be possible to display the character K and send the character in morse 5 times, or display only the character and wait for 4~10 around seconds for the correct answer using the morse key.
+
 It should also display statistics of a users progress and time used,and what characters the user needs to focus on if the user is struggling with those. 
 
 The slowest permitted speed should be 13 WPM. Any speed below this is wasted time.
@@ -101,6 +101,8 @@ Options that can be added when the basic functionality works, in decending prior
 Realistic mode example: Adds signal fading,static and white noise to imitate more "realistic conditions", as Hannes Matuschek Kochmorse has it. It is available at: https://github.com/hmatuschek/kochmorse . Kochmorse does have a CW detector, but it can't be used to input characters during learning how to receive Morse and it seems not to support winkeyer interfaces.
 Morse alphabets that should be used : Primarly International, but the possibility to add regional extras like the Norwegian Æ Ø and Å. 
 Those extras should be possible to add to the characters learned with a option in settings.
+
+Support multiple users on the same software instance, a database will be needed. 
 
 Compatibility with pipewire:
 https://pipewire.org/
