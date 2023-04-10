@@ -79,8 +79,9 @@ Basic and the most important function:
 
 Training mode example: First the program sends a series of K's in CW for 30 seconds while the character K is displayed. Then it repeats the procedure with the character M. When that is complete it sends a four characters group using K and M in random places without displaying the signs. It then waits for a four characters input using the keyboard or the morse device, shows the characters you have gotten correct in green, the wrong ones in red. 
 That continues until the user has gotten 90 % correct of a number of groups, then a new letter is introduced ( for example X ), it is sent for 30 seconds while the character is displayed. 
-Then the lesson continues using the new character until 90% of groups is correct, a new character or prosign is introduced and the lessons continues until all characters are learned. 
-It may also be possible to display the character K and send the character in morse 5 times, or display only the character and wait for 4~10 around seconds for the correct answer using the morse key.
+Then the lesson continues using the new character until 90% of groups is correct, a new character or prosign is introduced and the lessons continues until all characters are learned.
+ 
+It may also be possible to display the character K and send the character in morse 5 times, or display only the character and wait for 4~10 around seconds for the correct answer using the morse key if one has that.
 
 It should also display statistics of a users progress and time used,and what characters the user needs to focus on if the user is struggling with those. 
 
