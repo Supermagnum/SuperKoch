@@ -102,6 +102,10 @@ Realistic mode example: Adds signal fading,static and white noise to imitate mor
 Morse alphabets that should be used : Primarly International, but the possibility to add regional extras like the Norwegian Æ Ø and Å. 
 Those extras should be possible to add to the characters learned with a option in settings.
 
+Compatibility with pipewire:
+https://pipewire.org/
+Several GUI's for pipewire exists, vellum among others exists. 
+
 Compatibility with a Murmur client that can connect to a murmur server, that enables chatting in morse code with other users. The client is available at: https://www.mumble.info/ Similar low latency open source free software solutions could also be used.
 A existing murmur/mumble server  already exists: http://internetcw.weebly.com/
 Suggestion for a plugin for mumble: https://forums.mumble.info/topic/2542-fading-and-white-noise-plugin/ This may be done by the software itself if a plugin is to cumbersome.
