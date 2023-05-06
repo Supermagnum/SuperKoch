@@ -92,7 +92,10 @@ It must have a Graphical user interface and be compatible with morserino as top 
 It can be found here: http://www.morserino.info/
 
 Morserino's code: https://github.com//oe1wkl/Morserino-32 
+
 It communicates by serial data over USB connection.
+Documentation: https://github.com/oe1wkl/Morserino-32/tree/master/Documentation
+
 
 
 ------------------
