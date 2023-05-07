@@ -95,6 +95,7 @@ Morserino's code: https://github.com//oe1wkl/Morserino-32
 
 It communicates by serial data over USB connection.
 Documentation: https://github.com/oe1wkl/Morserino-32/tree/master/Documentation
+Information about usb serial speed.
 https://github.com/oe1wkl/Morserino-32/blob/master/Documentation/User%20Manual/Version%204.x/m32_user-Manual_v4.adoc#appendix5
 
 
