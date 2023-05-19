@@ -1,4 +1,4 @@
-#superkoch
+
 I hope that anyone is willing to program this:
 
 Just to explain some basic information about Koch's method and how morse code speed is calculated. Information about the necessary hardware is further down, below description of the softwares suggested functions.
