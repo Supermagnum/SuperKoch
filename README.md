@@ -34,7 +34,7 @@ But, there is a thing..
 
 It should work for both as it will teach muscle memory.
 
-There are NO software that can teach both, only receive!
+There are NO cross platform software compatible withmorserino-32 that can teach both, only receive!
 
 How the software should work,and it's modes:
 
