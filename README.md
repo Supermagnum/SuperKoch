@@ -57,7 +57,7 @@ It must have a Graphical user interface and be compatible with morserino as that
 
 Options that can be added when the basic functionality works, in decending priority:
 
-Realistic mode example: Adds signal fading,static and white noise to imitate more "realistic conditions", as Hannes Matuschek Kochmorse has it. 
+Realistic mode example: Adds signal fading,static,QRM and white noise to imitate more "realistic conditions", as Hannes Matuschek Kochmorse has it. 
 It is available at: https://github.com/hmatuschek/kochmorse . 
 Kochmorse does have a CW detector, but it can't be used to input characters during learning how to receive Morse and it seems not to support winkeyer interfaces. 
 
