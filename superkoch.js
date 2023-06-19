@@ -9,6 +9,7 @@ const server = http.createServer((req, res) => {
     var http = fs.readFileSync("./server/index.html").toString("utf-8");
     res.end(http);
 });
+
 server.listen(port, host, () => {
     console.log(`Server is running on http://${host}:${port}`);
 });
