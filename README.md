@@ -52,6 +52,7 @@ That continues until the user has gotten 90 % correct of a number of groups, the
 It may also be possible to display the character K and send the character in morse 5 times, or display only the character and wait for 4~10 around seconds for the correct answer.
 
 It should also display statistics of a users progress and time used,and what characters the user needs to focus on if the user is struggling with those when the entire alphabet is learned.
+The CW tone must be possible to adjust.
 
 It must have a Graphical user interface and be compatible with morserino as that will take care of the interfacing of different keys to the software. 
 
