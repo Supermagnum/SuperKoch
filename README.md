@@ -16,7 +16,7 @@ If you send PARIS 5 times in a minute (5WPM) you have sent 250 elements (using c
 13 Words-Per-Minute is one element every 92.31 milliseconds. 
 
 The Farnsworth method sends the dits and dahs and intra-character spacing at a higher speed, then increasing the inter-character and inter-word spacing to slow the sending speed down to the overall speed. For example, to send at 5 wpm with 13 wpm characters in Farnsworth method, the dits and intra-character spacing would be 92.3 milliseconds, the dah would be 276.9 milliseconds, the inter-character spacing would be 1.443 seconds and inter-word spacing would be 3.367 seconds.
-That method is used to make it easier to identify pause between morse code signs.
+That method is used to make it easier to identify pause between morse code signs, so that they don't "blend together".
 
 Learning at speeds below 13 WPM is strongly discouraged because building reflexes does not work at slow speeds.
 
@@ -44,8 +44,8 @@ It should keep track of the users progress,time used and other statistics. Some 
 Basic and the most important function:
 
 Training mode example: First the program sends a series of K's in CW for 30 seconds while the character K is displayed. 
-Then it repeats the procedure with the character M. When that is complete it sends a four characters group using K and M in random places without displaying the signs. 
-It then waits for a four characters input using the keyboard or the morse device, shows the characters you have gotten correct in green, the wrong ones in red.
+Then it repeats the procedure with the character M. When that is complete it sends a five characters group using K and M in random places without displaying the signs. 
+It then waits for a five characters input using the keyboard or the morse device, shows the characters you have gotten correct in green, the wrong ones in red.
  
 That continues until the user has gotten 90 % correct of a number of groups, then a new letter is introduced ( for example X ), it is sent for 30 seconds while the character is displayed. Then the lesson continues using the new character until 90% of groups is correct, a new character or prosign is introduced and the lessons continues until all characters are learned.
 
