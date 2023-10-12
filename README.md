@@ -84,6 +84,9 @@ It can be found here: http://www.morserino.info/
 
 Morserino's code: https://github.com//oe1wkl/Morserino-32
 
+One could use this as a start,and add the required modifications to it.
+https://github.com/cdaller/morserino32-trainer
+
 It communicates by serial data over USB connection. Documentation: https://github.com/oe1wkl/Morserino-32/tree/master/Documentation Information about usb serial speed. https://github.com/oe1wkl/Morserino-32/blob/master/Documentation/User%20Manual/Version%204.x/m32_user-Manual_v4.adoc#appendix5
 
 Different morse keys described, for those who are interested:
