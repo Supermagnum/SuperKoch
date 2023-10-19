@@ -35,7 +35,7 @@ But, there is a thing..
 
 It should work for both as it will teach muscle memory.
 
-There are NO cross platform software compatible withmorserino-32 that can teach both that has automaticprogression, only receive!
+There are NO cross platform software compatible with morserino-32 that can teach both that has automatic progression, only receive!
 
 How the software should work,and it's modes:
 
@@ -60,7 +60,6 @@ Options that can be added when the basic functionality works, in decending prior
 
 Realistic mode example: Adds signal fading,static,QRM and white noise to imitate more "realistic conditions", as Hannes Matuschek Kochmorse has it. 
 It is available at: https://github.com/hmatuschek/kochmorse . 
-Kochmorse does have a CW detector, but it can't be used to input characters during learning how to receive Morse and it seems not to support winkeyer interfaces. 
 
 Morse alphabets that should be used : Primarly International, but the possibility to add regional extras like the Norwegian Æ Ø and Å. Those extras should be possible to add to the characters learned with a option in settings.
 
@@ -81,8 +80,7 @@ Platform Compatibility: Linux Ubuntu and variants,Windows and Mac OS.
 
 There fortunately is a device that interprets signals from morse keys, it's the Morserino-32.
 It can be found here: http://www.morserino.info/
-
-Morserino's code: https://github.com//oe1wkl/Morserino-32
+That takes care of the interfacing bit.
 
 One could use this as a start,and add the required modifications to it.
 It appears to be written in java.
