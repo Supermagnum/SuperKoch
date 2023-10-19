@@ -49,6 +49,8 @@ It then waits for a five characters input using the keyboard or the morse device
  
 That continues until the user has gotten 90 % correct of a number of groups, then a new letter is introduced ( for example X ), it is sent for 30 seconds while the character is displayed. Then the lesson continues using the new character until 90% of groups is correct, a new character or prosign is introduced and the lessons continues until all characters are learned.
 
+It should be possible to add Farnsworth timing to add "space" between the signs.
+
 It may also be possible to display the character K and send the character in morse 5 times, or display only the character and wait for 4~10 around seconds for the correct answer.
 
 It should also display statistics of a users progress and time used,and what characters the user needs to focus on if the user is struggling with those when the entire alphabet is learned.
