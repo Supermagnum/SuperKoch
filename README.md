@@ -2,7 +2,7 @@ I hope that someone is willing to program this because I have a neurological con
 
 Just to explain some basic information about Koch's method and how morse code speed is calculated. Information about the necessary hardware is further down, below description of the softwares suggested functions.
 
-The Koch method, named after German psychologist Ludwig Koch, which uses the full target speed from the outset but begins with just two characters. Once strings containing those two characters can be copied with 90% accuracy, an additional character is added, and so on until the full character set is mastered. Your accuracy will of course drop when a new character is introduced, but it will go up again.
+The Koch method, named after German psychologist Ludwig Koch,psychologist at Technische Hochschule, Braunschweig, Germany,which uses the full target speed from the outset but begins with just two characters. Once strings containing those two characters can be copied with 90% accuracy, an additional character is added, and so on until the full character set is mastered. Your accuracy will of course drop when a new character is introduced, but it will go up again.
 Koch himself, with hand-picked students, got a group to master receiving morse code at 13 wpm in a mere 13.5 hours!
 
 That's much faster than any other method in the psychological literature. It's based on learned reflexes, and is arguably the best and fastest method available!
