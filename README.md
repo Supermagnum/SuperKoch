@@ -78,7 +78,7 @@ This may be done by the software itself if a plugin is to cumbersome.
 
 Compatible with Hamsphere: http://hamsphere.com/
 
-Platform Compatibility: Linux Ubuntu and variants,Windows and Mac OS.
+Platform Compatibility: Mozilla firefox and most web browsers.
 
 --------
 
