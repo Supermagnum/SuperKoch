@@ -39,7 +39,8 @@ There are NO cross platform software compatible with morserino-32 that can teach
 
 How the software should work,and it's modes:
 
-It should keep track of the users progress,time used and other statistics. Some of it may be posted to https://lcwo.net/ if an API is available.
+It should keep track of the users progress,time used and other statistics. Some of it may be posted to https://lcwo.net/ if an API is available. Source code:
+https://git.fkurz.net/dj1yfk/lcwo
 
 Basic and the most important function:
 
