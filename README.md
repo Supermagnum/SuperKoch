@@ -19,6 +19,8 @@ The Farnsworth method sends the dits and dahs and intra-character spacing at a h
 That method is used to make it easier to identify pause between morse code signs, so that they don't "blend together".
 
 Learning at speeds below 13 WPM is strongly discouraged because building reflexes does not work at slow speeds.
+13 WPM sounds like this:
+https://youtu.be/G0A_SRmedo8?si=fU5tKvBqOklFVx8y
 
 I personally recommend 15 wpm as minimum.
 It sounds like this:
@@ -65,6 +67,8 @@ Options that can be added when the basic functionality works, in decending prior
 
 Realistic mode example: Adds signal fading,static,QRM and white noise to imitate more "realistic conditions", as Hannes Matuschek Kochmorse has it. 
 It is available at: https://github.com/hmatuschek/kochmorse . 
+That sounds like this:
+https://youtu.be/zVqVlsnbNyo?si=2VxmI2mam3o1QMIb
 
 Morse alphabets that should be used : Primarly International, but the possibility to add regional extras like the Norwegian Æ Ø and Å. Those extras should be possible to add to the characters learned with a option in settings.
 
