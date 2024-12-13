@@ -83,7 +83,10 @@ This may be done by the software itself if a plugin is to cumbersome.
 
 Compatible with Hamsphere: http://hamsphere.com/
 
-Platform Compatibility: Mozilla firefox and most web browsers.
+Platform Compatibility: Opera web browser
+
+PS:  Look in :
+https://github.com/Supermagnum/SuperKoch/tree/master/tabnine-log
 
 --------
 
