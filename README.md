@@ -1,4 +1,4 @@
-I hope that someone is willing to program this because I have a neurological condition that makes it impossible for me:
+
 
 Just to explain some basic information about Koch's method and how morse code speed is calculated. Information about the necessary hardware is further down, below description of the softwares suggested functions.
 
@@ -88,7 +88,7 @@ Platform Compatibility: Opera web browser
 PS:  Look in :
 https://github.com/Supermagnum/SuperKoch/tree/master/tabnine-log
 
-I have made a attempt here, with help of TABNINES AI:
+I have made a attempt here, with help of TABNINES AI,- because I have a neurological condition that makes it impossible for me to understand programming.
 https://github.com/Supermagnum/morserino32-trainer
 
 It needs testing and cleaning.
