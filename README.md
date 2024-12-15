@@ -88,7 +88,7 @@ Platform Compatibility: Opera web browser
 PS:  Look in :
 https://github.com/Supermagnum/SuperKoch/tree/master/tabnine-log
 
-I have made a attempt here:
+I have made a attempt here, with help of TABNINES AI:
 https://github.com/Supermagnum/morserino32-trainer
 
 It needs testing and cleaning.
