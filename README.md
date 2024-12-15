@@ -88,6 +88,11 @@ Platform Compatibility: Opera web browser
 PS:  Look in :
 https://github.com/Supermagnum/SuperKoch/tree/master/tabnine-log
 
+I have made a attempt here:
+https://github.com/Supermagnum/morserino32-trainer
+
+It needs testing and cleaning.
+
 --------
 
 There fortunately is a device that interprets signals from morse keys, it's the Morserino-32.
@@ -110,7 +115,6 @@ Keys having two separate levers, one for dits and the other for dahs are called 
 
 More on morse keys: https://en.m.wikipedia.org/wiki/Telegraph_key
 
-Kochs paper on learning morse code: http://www.9h1mrl.org/ukrae/arc_cd/extra/morse/html/c29.htm
 
 
 
