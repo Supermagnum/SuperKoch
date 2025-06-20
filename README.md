@@ -41,8 +41,7 @@ There are NO cross platform software compatible with morserino-32 that can teach
 
 How the software should work,and it's modes:
 
-It should keep track of the users progress,time used and other statistics. Some of it may be posted to https://lcwo.net/ if an API is available. Source code:
-https://git.fkurz.net/dj1yfk/lcwo
+It should keep track of the users progress,time used and other statistics. 
 
 Basic and the most important function:
 
@@ -65,56 +64,14 @@ It must have a Graphical user interface and be compatible with morserino as that
 
 Options that can be added when the basic functionality works, in decending priority:
 
-Realistic mode example: Adds signal fading,static,QRM and white noise to imitate more "realistic conditions", as Hannes Matuschek Kochmorse has it. 
-It is available at: https://github.com/hmatuschek/kochmorse . 
-That sounds like this:
-https://youtu.be/zVqVlsnbNyo?si=2VxmI2mam3o1QMIb
-
+Realistic mode example: Adds signal fading,static,QRM and white noise to imitate more "realistic conditions", 
 Morse alphabets that should be used : Primarly International, but the possibility to add regional extras like the Norwegian Æ Ø and Å. Those extras should be possible to add to the characters learned with a option in settings.
 
 Support multiple users on the same software instance, a database will be needed.
 
-Compatibility with pipewire: https://pipewire.org/ Several GUI's for pipewire exists, vellum among others exists.
+Look at:
+https://github.com/Supermagnum/Supermorse
 
-Compatibility with a Murmur client that can connect to a murmur server, that enables chatting in morse code with other users. 
-The client is available at: https://www.mumble.info/ Similar low latency open source free software solutions could also be used. A existing murmur/mumble server already exists: http://internetcw.weebly.com/ 
-Suggestion for a plugin for mumble: https://forums.mumble.info/topic/2542-fading-and-white-noise-plugin/ 
-This may be done by the software itself if a plugin is to cumbersome.
-
-Compatible with Hamsphere: http://hamsphere.com/
-
-Platform Compatibility: Opera web browser
-
-PS:  Look in :
-https://github.com/Supermagnum/SuperKoch/tree/master/tabnine-log
-
-I have made a attempt here, with help of TABNINES AI,- because I have a neurological condition that makes it impossible for me to understand programming.
-https://github.com/Supermagnum/morserino32-trainer
-
-It needs testing and cleaning.
-
---------
-
-There fortunately is a device that interprets signals from morse keys, it's the Morserino-32.
-It can be found here: http://www.morserino.info/
-That takes care of the interfacing bit.
-
-One could use this as a start,and add the required modifications to it.
-It appears to be written in java.
-https://github.com/cdaller/morserino32-trainer
-
-It communicates by serial data over USB connection. Documentation: https://github.com/oe1wkl/Morserino-32/tree/master/Documentation Information about usb serial speed. https://github.com/oe1wkl/Morserino-32/blob/master/Documentation/User%20Manual/Version%204.x/m32_user-Manual_v4.adoc#appendix5
-
-Different morse keys described, for those who are interested:
-
-Example of a straight key: https://en.m.wikipedia.org/wiki/File:J38TelegraphKey.jpg
-
-A straight key is the common telegraph key as seen in various movies. It is a simple bar with a knob on top and a contact underneath. When the bar is depressed against spring tension, it forms a circuit and allows electricity to flow. 
-
-Keys having two separate levers, one for dits and the other for dahs are called dual or dual-lever paddles. With a dual paddle both contacts may be closed simultaneously, enabling the "iambic" functions of an electronic keyer that is designed to support them. The operator can create a series of alternating dits and dahs . A single-paddle also utilizes separate contacts for dits and dahs. A example of a dual lever paddle: http://www.morsex.com/bencher/by1.jpg
-
-More on morse keys: https://en.m.wikipedia.org/wiki/Telegraph_key
-
-
-
+and:
+https://github.com/Supermagnum/supermorse-app
 
